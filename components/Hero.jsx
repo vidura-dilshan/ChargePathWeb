@@ -41,7 +41,7 @@ export default function Hero() {
 
           <p className="mt-5 max-w-md text-base text-slate-600 sm:text-lg">
             ChargePath helps EV drivers locate charging stations, plan
-            battery-aware routes, and pay seamlessly — all from one app.
+            battery-aware routes, and pay seamlessly  all from one app.
           </p>
 
           <div className="mt-8 flex flex-wrap gap-4">
