@@ -52,8 +52,8 @@ export default function Footer() {
         <div>
           <h4 className="font-semibold text-white">Contact</h4>
           <ul className="mt-4 space-y-2 text-sm text-slate-400">
-            <li>support@chargepath.app</li>
-            <li>Colombo, Sri Lanka</li>
+            <li>chargepathapp@gmail.com</li>
+            <li>Panadura, Sri Lanka</li>
           </ul>
         </div>
       </div>
