@@ -61,7 +61,7 @@ export default function Hero() {
             >
               <Apple className="h-6 w-6" />
               <span className="text-left leading-tight">
-                <span className="block text-[10px] uppercase opacity-60">Download on the</span>
+                <span className="block text-[10px] uppercase opacity-60">Get it on</span>
                 <span className="block font-semibold">App Store</span>
               </span>
             </a>
