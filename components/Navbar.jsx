@@ -66,7 +66,7 @@ export default function Navbar() {
               <a
                 href={l.href}
                 onClick={(e) => handleNavClick(e, l.href)}
-                className="text-sm font-medium text-slate-600 transition hover:text-blue-600"
+                className="text-sm font-medium text-[#000] transition hover:text-blue-600"
               >
                 {l.label}
               </a>

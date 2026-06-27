@@ -18,7 +18,7 @@ export default function Download() {
           <h2 className="mx-auto mt-5 max-w-2xl font-[family-name:var(--font-poppins)] text-3xl font-extrabold text-slate-900 sm:text-4xl md:text-5xl">
             Start your <span className="gradient-text">electric journey</span> today
           </h2>
-          <p className="mx-auto mt-4 max-w-xl text-slate-600">
+          <p className="mx-auto mt-4 max-w-xl text-[#000]">
             Scan the QR code with your phone, or grab ChargePath from your app store.
           </p>
         </Reveal>

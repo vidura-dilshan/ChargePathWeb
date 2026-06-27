@@ -61,7 +61,7 @@ export default function Screenshots() {
             <Reveal key={s.src} delay={i * 0.06} className="shrink-0 snap-center">
               <div className="text-center">
                 <PhoneMockup src={s.src} alt={s.label} />
-                <p className="mt-5 text-sm font-medium text-slate-600">{s.label}</p>
+                <p className="mt-5 text-sm font-medium text-[#000]">{s.label}</p>
               </div>
             </Reveal>
           ))}

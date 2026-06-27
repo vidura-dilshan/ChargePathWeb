@@ -39,7 +39,7 @@ export default function Hero() {
             <span className="gradient-text">Go.</span>
           </h1>
 
-          <p className="mt-5 max-w-md text-base text-slate-600 sm:text-lg">
+          <p className="mt-5 max-w-md text-base text-[#000] sm:text-lg">
             ChargePath helps EV drivers locate charging stations, plan
             battery-aware routes, and pay seamlessly  all from one app.
           </p>
@@ -68,7 +68,7 @@ export default function Hero() {
           </div>
 
           {/* Trust row */}
-          <div className="mt-8 flex flex-wrap items-center gap-x-6 gap-y-3 text-sm font-medium text-slate-600">
+          <div className="mt-8 flex flex-wrap items-center gap-x-6 gap-y-3 text-sm font-medium text-[#000]">
             <span className="flex items-center gap-1.5">
               <span className="flex">
                 {[...Array(5)].map((_, i) => (

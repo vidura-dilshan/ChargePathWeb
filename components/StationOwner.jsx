@@ -25,7 +25,7 @@ export default function StationOwner() {
             <h2 className="mt-5 font-[family-name:var(--font-poppins)] text-3xl font-extrabold leading-tight text-slate-900 sm:text-4xl md:text-5xl">
               Power the future of <span className="gradient-text">EV charging</span>
             </h2>
-            <p className="mt-4 text-base text-slate-600 sm:text-lg">
+            <p className="mt-4 text-base text-[#000] sm:text-lg">
               Own a charger? Join the ChargePath network and turn it into income.
               Manage, monitor and grow your charging business from your phone.
             </p>
