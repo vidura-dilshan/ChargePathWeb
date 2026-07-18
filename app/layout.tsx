@@ -26,7 +26,7 @@ export const metadata = {
     title: "ChargePath - EV Charging Station Finder & Route Planner in Sri Lanka",
     description: "Find EV charging stations near you, plan battery-aware routes, and pay from your wallet — all in one free app.",
     url: "https://www.chargepath.lk/",
-    images: ["https://www.chargepath.lk/bg2.jpg"],
+    images: ["https://www.chargepath.lk/logo.png"],
     type: "website",
   },
   twitter: {
